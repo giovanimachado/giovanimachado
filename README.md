@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Tensorflow 
+- 🌱 I’m currently learning Tensorflow and Docker
 
 <!--
 **giovanimachado/giovanimachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
