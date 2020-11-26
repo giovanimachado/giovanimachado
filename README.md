@@ -6,7 +6,10 @@
 - Tensorflow;
 - Docker.
 
-How to reach me? 🎯
+📫 How to reach me:
+---
+https://www.linkedin.com/in/giovani-ferreira-machado/
+
 
 <!--
 **giovanimachado/giovanimachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
