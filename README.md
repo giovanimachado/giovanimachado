@@ -1,20 +1,28 @@
-<h1 align="center">👋 print("Hi, there!") </h1> 
+<h3 align="center">
+  Hi there, I'm Giovani 👋
+</h3>
 
 <a href="https://www.linkedin.com/in/giovani-ferreira-machado/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 <a href="mailto:giovani.machado@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%231ED760.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://stackoverflow.com/users/9707614/giovani" target="_blank"><img src="https://img.shields.io/badge/Stackoverflow-%f5050d.svg?&style=flat-square&logo=Stackoverflow&logoColor=white" alt="Stackoverflow"></a>
   
-https://stackoverflow.com/users/9707614/giovani
+<p align="center">
+  Hi, I'm Giovani, DSc. student & Manager
+  <br>
+  <br>
+  🔬 I'm currently studying for a DSc's degree in Pontifical Catholic University of Rio de Janeiro
+  <br>
+  🎓 I graduated from Federal Center of Technological Education in Rio de Janeiro
+  <br>
+  💻 I love learn new things
+  <br>
+  📚 I’m currently learning Machine Learning and Cloud Development
+  <br>
+</p>
 
-🌱 I’m currently learning:
----
+<hr>
+<h4 align="center">💻 My activity in github:</h2>
 
-- Tensorflow;
-- Docker.
-
-
-💻 My activity in github:
----
 
 <p align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
@@ -47,4 +55,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<hr>
+<h4 align="center">🌱 I’m currently learning::</h2>
+
+- Tensorflow;
+- Docker;
+- AWS;
+- TypeScript
+
 -->
