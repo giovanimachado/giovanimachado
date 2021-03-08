@@ -1,6 +1,7 @@
 <h1 align="center">👋 print("Hi, there!") </h1> 
 
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/giovani-ferreira-machado/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"><a href="giovani.machado@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%231ED760.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://www.linkedin.com/in/giovani-ferreira-machado/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="mailto:giovani.machado@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%231ED760.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
 
 🌱 I’m currently learning:
 ---
@@ -10,11 +11,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovanimachado&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-📫 How to reach me:
----
-https://www.linkedin.com/in/giovani-ferreira-machado/
-
-
+![](https://komarev.com/ghpvc/?username=giovanimachado)
 <!--
 **giovanimachado/giovanimachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
