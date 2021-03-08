@@ -1,13 +1,13 @@
-<h3 align="center">
-  Hi there, I'm Giovani 👋
-</h3>
-
 <a href="https://www.linkedin.com/in/giovani-ferreira-machado/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 <a href="mailto:giovani.machado@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%231ED760.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://stackoverflow.com/users/9707614/giovani" target="_blank"><img src="https://img.shields.io/badge/Stackoverflow-%f5050d.svg?&style=flat-square&logo=Stackoverflow&logoColor=white" alt="Stackoverflow"></a>
-  
+
+<h3 align="center">
+  Hi there! 👋
+</h3>
+
 <p align="center">
-  Hi, I'm Giovani, DSc. student & Manager
+  I'm Giovani, DSc. student & Manager
   <br>
   <br>
   🔬 I'm currently studying for a DSc's degree in Pontifical Catholic University of Rio de Janeiro
