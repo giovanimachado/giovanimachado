@@ -7,16 +7,13 @@
 </h3>
 
 <p align="center">
-  I'm Giovani, DSc. student & Manager
-  <br>
-  <br>
-  🔬 I'm currently studying for a DSc's degree in Pontifical Catholic University of Rio de Janeiro
+  I'm Giovani, Petroleum Engineer and AI learner. 
   <br>
   🎓 I graduated from Federal Center of Technological Education in Rio de Janeiro
   <br>
   💻 I love learn new things
   <br>
-  📚 I’m currently learning Machine Learning and Cloud Development
+  📚 I’m currently LLM and Difusion Models.
   <br>
 </p>
 
