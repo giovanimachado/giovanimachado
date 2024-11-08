@@ -13,7 +13,7 @@
   <br>
   💻 I love learn new things
   <br>
-  📚 I’m currently LLM and Difusion Models.
+  📚 I’m currently learning LLM and Difusion Models.
   <br>
 </p>
 
