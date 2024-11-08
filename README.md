@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/giovani-ferreira-machado/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/giovanifmachado/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 <a href="mailto:giovani.machado@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23f5050d.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://stackoverflow.com/users/9707614/giovani" target="_blank"><img src="https://img.shields.io/badge/Stackoverflow-%23e05c3a.svg?&style=flat-square&logo=Stackoverflow&logoColor=white" alt="Stackoverflow"></a>
 
